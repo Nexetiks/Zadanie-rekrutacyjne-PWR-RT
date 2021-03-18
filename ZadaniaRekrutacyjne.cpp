@@ -129,7 +129,7 @@ void RouteCourse(int x, float results[14][2])
 	else
 	{
 		cout << endl << endl << "Sprobuj ponownie" << endl << endl;
-		Routecourse(x, results);
+		RouteCourse(x, results);
 	}
 }
 
