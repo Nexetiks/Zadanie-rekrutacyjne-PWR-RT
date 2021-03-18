@@ -22,3 +22,5 @@ Raczej nie trudno sie domyslic, funkcja w ktorej wywolywane sa po kolei wszystki
 
 
 Zalaczam zdjecie z ponumerowanymi skrzyzowaniami wedlug ktorych program wypisuje sciezke.
+
+![](https://github.com/Nexetiks/Zadanie-rekrutacyjne-PWR-RT/blob/master/Numeracja.png?raw=true)
